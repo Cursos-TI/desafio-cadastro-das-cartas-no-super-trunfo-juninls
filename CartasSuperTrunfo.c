@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    printf("Desafio Super Trunfo!\n");
     // Variáveis da carta 1
     char codigo1[4];
     int populacao1;
